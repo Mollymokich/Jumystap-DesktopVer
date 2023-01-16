@@ -1,0 +1,76 @@
+body {
+  width: 100%;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 80px;
+  padding-right: 80px;
+  height: 62px;
+}
+
+.header-log {
+  width: 114.68px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+}
+
+.header-menu {
+  float: none;
+  height: 38px;
+  width: 64px;
+  padding: 10px 12px 10px 12px;
+  display: flex;
+  flex-direction: column;
+}
+
+.Text {
+  display: flex;
+  align-items: center;
+  padding: 100px 80px 100px 80px;
+}
+
+Text .Text-left {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 495px;
+  height: 366px;
+  margin-right: 165px;
+}
+
+Text .Text-right {
+  position: relative;
+  width: 619px;
+  height: 420px;
+  left: -34px;
+  top: -12px;
+}
+
+.about-steps {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.Block-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 757px;
+  height: 222px;
+}
+
+.Block-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 757px;
+  height: 222px;
+}
